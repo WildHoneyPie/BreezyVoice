@@ -1,1 +1,1 @@
-python3 single_inference.py --speaker_prompt_audio_path "data/example.wav" --speaker_prompt_text_transcription "在密碼學中，加密是將明文資訊改變為難以讀取的密文內容，使之不可讀的方法。只有擁有解密方法的對象，經由解密過程，才能將密文還原為正常可讀的內容。" --content_to_synthesize "早上好 中國 現在我有冰七令" --output_path results/out.wav
+python3 single_inference.py --speaker_prompt_audio_path "data/example.wav" --speaker_prompt_text_transcription "在你服務的這些年裡面，你有沒有，什麼樣的心境的變化，或者是說尤其是從，本來是服務，大概就是，緊急安置到下一個階段，但我相信立新這邊服務的恐怕是比較長期一點的，的內容。" --content_to_synthesize "早上好 中國 現在我有冰七令" --output_path results/out.wav
