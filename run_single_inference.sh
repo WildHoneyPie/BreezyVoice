@@ -1,1 +1,1 @@
-python3 single_inference.py --speaker_prompt_audio_path "data/example.wav"  --content_to_synthesize "早上好 中國 現在我有冰七令" --output_path results/out.wav
+python3 single_inference.py --speaker_prompt_audio_path "data/example.wav"  --speaker_prompt_text_transcription "嗚 嗚啦啦嗚啦 嗚啦啦呀哈呀哈 蛤[:ㄏㄚ2] 烏拉呀哈 呀哈嗚啦" --content_to_synthesize "早上好 中國 現在我有冰七令"--content_to_synthesize "早上好 中國 現在我有冰七令" --output_path results/out.wav
